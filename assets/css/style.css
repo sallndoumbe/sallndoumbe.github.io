@@ -1,0 +1,90 @@
+/* Style global */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #f9fafb;
+  color: #1f2937;
+  line-height: 1.7;
+}
+
+/* Conteneur */
+.page-content {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+/* Titres */
+h1, h2, h3 {
+  color: #111827;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  border-left: 4px solid #2563eb;
+  padding-left: 0.75rem;
+}
+
+/* Liens */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Listes */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+/* Menu (Minima) */
+.site-header {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.site-title {
+  font-weight: bold;
+}
+
+.site-nav a {
+  margin-left: 1rem;
+  font-weight: 500;
+}
+
+.site-footer {
+  background: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+.site-footer a {
+  color: #2563eb;
+  font-weight: 500;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+
